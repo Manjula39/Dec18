@@ -1,0 +1,2 @@
+C:\Users\Hp\Documents\mphasis\Dec18\Dec18Console\Dec18Console\obj\Debug\Dec18Console.csproj.AssemblyReference.cache
+C:\Users\Hp\Documents\mphasis\Dec18\Dec18Console\Dec18Console\obj\Debug\Dec18Console.csproj.CoreCompileInputs.cache
